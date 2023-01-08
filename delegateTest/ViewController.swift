@@ -49,6 +49,7 @@ class ViewController: UIViewController {
     func gitTest()
     {
         print("dasda")
+        print("bakıcaz")
     }
     
    @objc func tabButton()
@@ -56,6 +57,11 @@ class ViewController: UIViewController {
         print("navigate")
         //self.navigationController?.pushViewController(second, animated: true)
         present(second, animated: true)
+    }
+    
+    func iki()
+    {
+        print("alşkdşlas")
     }
     
 
