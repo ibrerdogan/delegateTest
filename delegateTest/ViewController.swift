@@ -46,6 +46,11 @@ class ViewController: UIViewController {
         ])
     }
     
+    func gitTest()
+    {
+        print("dasda")
+    }
+    
    @objc func tabButton()
     {
         print("navigate")
