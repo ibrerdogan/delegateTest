@@ -53,6 +53,11 @@ class ViewController: UIViewController {
         present(second, animated: true)
     }
     
+    func iki()
+    {
+        print("alşkdşlas")
+    }
+    
 
 
 }
