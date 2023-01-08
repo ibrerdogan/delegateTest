@@ -49,6 +49,7 @@ class ViewController: UIViewController {
     func gitTest()
     {
         print("dasda")
+        print("bakıcaz")
     }
     
    @objc func tabButton()
